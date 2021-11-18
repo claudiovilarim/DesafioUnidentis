@@ -1,6 +1,5 @@
-# DesafioUnidentis
 # Teste para candidatos à vaga de desenvolvedor PHP Trainee/Júnior
-Olá meu amigo da programação, quero te tranquilzar antes de tudo, você irá passar por três desafios bem simples que vão demonstrar seu real nível de afinidade com a linguágem. Claro que não estamos exigindo uma experiência prévia, mas é de extrema importância para a gente que você demonstre em que seus estudos te levaram até o momento.
+Olá meu amigo da programação, quero te parabenizar por ter passado pela primeira etapa de seleção, nesta nova etapa você irá fazer três desafios bem simples que vão demonstrar seu real nível de afinidade com as linguágens desejadas. Não estamos exigindo uma experiência prévia, mas é de extrema importância para a gente que você demonstre a que ponto seus estudos o levaram até o momento.
 
 ## Instruções desafio 00
 O desafio consiste em fazer uma Calculadora utilizando tudo o que você conhece de PHP, MYSQL, JAVASCRIPT, HTML, CSS, JQUERY, BOOTSTRAP... se souber de mais alguma coisa e quiser implementar isso vai ser ótimo!
